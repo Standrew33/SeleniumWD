@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gWdCnYBVNyJMEn0i0dAea4KuLP6ZQ0Hy20HCxkDNGs925+OrSTnZAoMho8hOcI4Z0jkss7B8SxWkGz8l8KhlNg==",
+  "success": true,
+  "projectFilePath": "E:\\Projects\\C#\\SeleniumWD\\SeleniumWD\\SeleniumWD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andrei\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Andrei\\.nuget\\packages\\selenium.support\\4.0.1\\selenium.support.4.0.1.nupkg.sha512",
+    "C:\\Users\\Andrei\\.nuget\\packages\\selenium.webdriver\\4.0.1\\selenium.webdriver.4.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
