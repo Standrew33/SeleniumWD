@@ -1,0 +1,8 @@
+E:\Projects\C#\SeleniumWD\SeleniumWD\bin\publish\SeleniumWD.exe
+E:\Projects\C#\SeleniumWD\SeleniumWD\bin\publish\SeleniumWD.dll
+E:\Projects\C#\SeleniumWD\SeleniumWD\bin\publish\SeleniumWD.deps.json
+E:\Projects\C#\SeleniumWD\SeleniumWD\bin\publish\SeleniumWD.runtimeconfig.json
+E:\Projects\C#\SeleniumWD\SeleniumWD\bin\publish\SeleniumWD.pdb
+E:\Projects\C#\SeleniumWD\SeleniumWD\bin\publish\Newtonsoft.Json.dll
+E:\Projects\C#\SeleniumWD\SeleniumWD\bin\publish\WebDriver.Support.dll
+E:\Projects\C#\SeleniumWD\SeleniumWD\bin\publish\WebDriver.dll
